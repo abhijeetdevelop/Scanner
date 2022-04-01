@@ -1,0 +1,15 @@
+/Users/capgeminidcx/Projects/Scanner/Scanner/bin/Debug/netstandard2.0/Scanner.deps.json
+/Users/capgeminidcx/Projects/Scanner/Scanner/bin/Debug/netstandard2.0/Scanner.dll
+/Users/capgeminidcx/Projects/Scanner/Scanner/bin/Debug/netstandard2.0/ref/Scanner.dll
+/Users/capgeminidcx/Projects/Scanner/Scanner/bin/Debug/netstandard2.0/Scanner.pdb
+/Users/capgeminidcx/Projects/Scanner/Scanner/obj/Debug/netstandard2.0/Scanner.csproj.AssemblyReference.cache
+/Users/capgeminidcx/Projects/Scanner/Scanner/obj/Debug/netstandard2.0/Scanner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/capgeminidcx/Projects/Scanner/Scanner/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/capgeminidcx/Projects/Scanner/Scanner/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/capgeminidcx/Projects/Scanner/Scanner/obj/Debug/netstandard2.0/Scanner.AssemblyInfoInputs.cache
+/Users/capgeminidcx/Projects/Scanner/Scanner/obj/Debug/netstandard2.0/Scanner.AssemblyInfo.cs
+/Users/capgeminidcx/Projects/Scanner/Scanner/obj/Debug/netstandard2.0/Scanner.csproj.CoreCompileInputs.cache
+/Users/capgeminidcx/Projects/Scanner/Scanner/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/capgeminidcx/Projects/Scanner/Scanner/obj/Debug/netstandard2.0/Scanner.dll
+/Users/capgeminidcx/Projects/Scanner/Scanner/obj/Debug/netstandard2.0/ref/Scanner.dll
+/Users/capgeminidcx/Projects/Scanner/Scanner/obj/Debug/netstandard2.0/Scanner.pdb

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7tCph8ahjdyd0VxIPemxv4Fz6m239pBebhxjF/YbR744vz/xQx72BXVIobs6AD4SBkFv6rkY9nHQu8RM/y3nlw==",
+  "success": true,
+  "projectFilePath": "/Users/capgeminidcx/Projects/Scanner/Scanner.iOS/Scanner.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/capgeminidcx/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/capgeminidcx/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/capgeminidcx/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "/Users/capgeminidcx/.nuget/packages/zxing.net.mobile/2.4.1/zxing.net.mobile.2.4.1.nupkg.sha512",
+    "/Users/capgeminidcx/.nuget/packages/zxing.net.mobile.forms/2.4.1/zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

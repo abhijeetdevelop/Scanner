@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{64C3EA81-9911-4F92-B183-23CDE594655C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Scanner.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4C85DA93-60F2-4347-A9BA-87C48F2C70AC" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Scanner/HomePage.cs">
+    <Files>
+      <File FileName="Scanner/App.xaml.cs" Line="13" Column="51" />
+      <File FileName="Scanner/HomePage.cs" Line="26" Column="1" />
+      <File FileName="Scanner/CustomScanPage.cs" />
+      <File FileName="Scanner/CustomContinuousScanPage.cs" />
+      <File FileName="Scanner.Android/MainActivity.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Scanner" expanded="True">
+            <Node name="Scanner" expanded="True">
+              <Node name="HomePage.cs" selected="True" />
+            </Node>
+            <Node name="Scanner.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Scanner.Android PreferredExecutionTarget="Android.Pixel_3_Q_10.0_-_API_29" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/capgeminidcx/Projects/Scanner/Scanner/CustomScanPage.cs" relfile="Scanner/CustomScanPage.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
